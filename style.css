@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: background-color 0.5s ease;
+    font-family: Arial, sans-serif;
+}
+
+#color-name {
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+}
